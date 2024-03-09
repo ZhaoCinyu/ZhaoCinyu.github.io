@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am currently a master student at the School of Software and Microelectronics, Peking University. I received my bachelor degree from Huazhong University of Science and Technology.
+Hello! I am Xinyu Zhao (赵心毓), currently a master student at the School of Software and Microelectronics, Peking University. I received my bachelor degree from Huazhong University of Science and Technology.
 
 ## News
 
