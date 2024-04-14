@@ -1,0 +1,8 @@
+@inproceedings{
+zhao2024sparse,
+title={Sparse MoE with Language Guided Routing for Multilingual Machine Translation},
+author={Xinyu Zhao and Xuxi Chen and Yu Cheng and Tianlong Chen},
+booktitle={The Twelfth International Conference on Learning Representations},
+year={2024},
+url={https://openreview.net/forum?id=ySS7hH1smL}
+}
