@@ -1,7 +1,7 @@
 main:
 
   - title: Sparse MoE with Language Guided Routing for Multilingual Machine Translation
-    authors: <strong>Xinyu Zhao</strong>, Xuxi Chen, Yu Cheng, Tianlong Chen* (*Corresponding authors)
+    authors: <strong>Xinyu Zhao</strong>, Xuxi Chen, Yu Cheng, Tianlong Chen
     conference_short: ICLR
     conference: International Conference on Learning Representations <strong>(ICLR)</strong>, 2024.
     pdf: https://openreview.net/pdf?id=ySS7hH1smL
