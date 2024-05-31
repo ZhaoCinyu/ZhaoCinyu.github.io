@@ -1,5 +1,14 @@
 main:
 
+  - title: 'MoE-RBench: Towards Building Reliable Language Models with Sparse Mixture-of-Experts'
+    authors: Guanjie Chen*, <strong>Xinyu Zhao*</strong>, Tianlong Chen, Yu Cheng
+    conference_short: ICML
+    conference: International Conference on Machine Learning <strong>(ICML)</strong>, 2024.
+    pdf: https://openreview.net/pdf?id=LyJ85kgHFe
+    code: https://github.com/UNITES-Lab/MoE-RBench
+    bibtex: ./assets/bib/MoE_RBench.txt
+    image: ./assets/img/MoE_RBench_teaser.png
+  
   - title: Sparse MoE with Language Guided Routing for Multilingual Machine Translation
     authors: <strong>Xinyu Zhao</strong>, Xuxi Chen, Yu Cheng, Tianlong Chen
     conference_short: ICLR

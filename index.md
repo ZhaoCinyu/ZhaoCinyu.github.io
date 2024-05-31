@@ -8,6 +8,7 @@ Hello! I am Xinyu Zhao (赵心毓), an incoming PhD student at UNITES @ UNC, adv
 
 ## News
 
+- **[May. 2024]** One paper about MoE reliability evaluation is accepted to ICML 2024.
 - **[Jan. 2024]** One paper about SMoE for multilingual machine translation is accepted to ICLR 2024.
 
 {% include_relative _includes/publications.md %}
