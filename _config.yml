@@ -1,7 +1,7 @@
 # Basic Information 
 title: Xinyu Zhao
-position: Incoming PhD Student
-affiliation: The University of North Carolina at Chapel Hill
+position: Ph.D. Student
+affiliation: University of North Carolina Chapel Hill
 email: xinyu (at) cs.unc.edu
 
 # Search Engine Optimization (SEO)
@@ -13,7 +13,7 @@ canonical: https://minimal-light-theme.yliu.me/
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
 google_scholar: https://scholar.google.com/citations?hl=en&user=1cj23VYAAAAJ
-cv_link: assets/files/Xinyu_ZHAO_CV.pdf
+# cv_link: assets/files/Xinyu_ZHAO_CV.pdf
 github_link: https://github.com/ZhaoCinyu
 # linkedin: https://www.linkedin.com/
 # twitter: https://twitter.com/
