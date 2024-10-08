@@ -1,0 +1,8 @@
+@inproceedings{
+zhao2024textttmodelglue,
+title={Model-{GLUE}: Democratized {LLM} Scaling for A Large Model Zoo in the Wild},
+author={Xinyu Zhao and Guoheng Sun and Ruisi Cai and Yukun Zhou and Pingzhi Li and Peihao Wang and Bowen Tan and Yexiao He and Li Chen and Yi Liang and Beidi Chen and Binhang Yuan and Hongyi Wang and Ang Li and Zhangyang Wang and Tianlong Chen},
+booktitle={The Thirty-eight Conference on Neural Information Processing Systems Datasets and Benchmarks Track},
+year={2024},
+url={https://openreview.net/forum?id=M5JW7O9vc7}
+}

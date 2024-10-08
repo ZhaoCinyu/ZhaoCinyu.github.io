@@ -3,7 +3,7 @@
 <div class="publications">
 <ol class="bibliography">
 
-(* indicates authors with equal contribution.)
+(*: equal contribution. ^: equal supervision )
 
 {% for link in site.data.publications.main %}
 

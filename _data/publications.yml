@@ -1,5 +1,14 @@
 main:
 
+  - title: 'Model-GLUE: Democratized LLM Scaling for A Large Model Zoo in the Wild'
+    authors: <strong>Xinyu Zhao*</strong>, Guoheng Sun*, Ruisi Cai*, Yukun Zhou*, Pingzhi Li*, Peihao Wang*, Bowen Tan, Yexiao He, Li Chen, Yi Liang, Beidi Chen, Binhang Yuan, Hongyi Wang^, Ang Li^, Zhangyang Wang^, Tianlong Chen^
+    conference_short: NeurIPS
+    conference: Conference on Neural Information Processing Systems <strong>(NeurIPS)</strong> Dataset and Benchmark Track, 2024.
+    pdf: https://openreview.net/forum?id=M5JW7O9vc7
+    code: https://github.com/Model-GLUE/Model-GLUE
+    bibtex: ./assets/bib/Model_GLUE.txt
+    image: ./assets/img/Model_GLUE_teaser.jpg
+
   - title: 'MoE-RBench: Towards Building Reliable Language Models with Sparse Mixture-of-Experts'
     authors: Guanjie Chen*, <strong>Xinyu Zhao*</strong>, Tianlong Chen, Yu Cheng
     conference_short: ICML
